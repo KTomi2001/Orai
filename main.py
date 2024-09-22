@@ -30,4 +30,4 @@ felhasznalo_neve = input("Hogy hívnak: ")
 felhasznalo_kora = input("Hány éves vagy: ")
 print("Szia", felhasznalo_neve)
 print("Biztosan", felhasznalo_kora, "vagy? Nem", int(felhasznalo_kora) + 10, "?")
-"helo"
+"heloa"
